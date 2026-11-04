@@ -48,7 +48,6 @@ The goal is simple: turn raw financial facts into organized information that hel
 - [⚠️ Notes & Limitations](#️-notes--limitations)
 
 ---
----
 
 ## 🎯 Business Problem
 
@@ -61,6 +60,9 @@ I built this project to create a repeatable workflow that answers practical ques
 - How have assets, liabilities, and equity changed?
 - Which years had a decline or a strong increase?
 - What do the financial indicators tell us about the company's performance?
+
+
+---
 
 ## 🏗️ Architecture
 
