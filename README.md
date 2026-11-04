@@ -35,8 +35,6 @@ The goal is simple: turn raw financial facts into organized information that hel
 
 ## 🖥️ Project Home
 
-> Add a screenshot of your Power BI **Home page** here. Save the image in the repository as `images/dashboard-home.png`.
-
 <div align="center">
   <img src="images/dashboard-home.png" alt="Apple Financial BI - Home Page" width="90%">
 </div>
