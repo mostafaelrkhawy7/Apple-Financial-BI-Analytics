@@ -321,7 +321,6 @@ These are observations from the supplied financial data. They describe **what ch
 
 Add your actual Power BI screenshots to the `images/` folder and keep the filenames below. The **Home** screenshot is included first so visitors see the report landing page before exploring the analysis pages.
 
-> 📷 The image paths below are placeholders until you add your screenshots.
 
 ### 🏠 Home Page
 
@@ -335,11 +334,6 @@ Add your actual Power BI screenshots to the `images/` folder and keep the filena
   <img src="images/dashboard-overview.png" alt="Executive Overview Dashboard" width="90%">
 </div>
 
-### 💰 Revenue Analysis
-
-<div align="center">
-  <img src="images/dashboard-revenue.png" alt="Revenue Analysis Dashboard" width="90%">
-</div>
 
 ### 📈 Profitability Analysis
 
