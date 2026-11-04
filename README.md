@@ -39,7 +39,6 @@ The goal is simple: turn raw financial facts into organized information that hel
 
 <div align="center">
   <img src="images/dashboard-home.png" alt="Apple Financial BI - Home Page" width="90%">
-  <p><em>Project home page — replace this placeholder with your actual screenshot.</em></p>
 </div>
 
 ---
