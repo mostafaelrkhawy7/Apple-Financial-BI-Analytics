@@ -48,6 +48,7 @@ The goal is simple: turn raw financial facts into organized information that hel
 - [⚠️ Notes & Limitations](#️-notes--limitations)
 
 ---
+---
 
 ## 🎯 Business Problem
 
