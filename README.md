@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🍎 Apple Financial BI & Analytics
+#  Apple Financial BI & Analytics
 
 ### From SEC financial data to clear business insights
 
