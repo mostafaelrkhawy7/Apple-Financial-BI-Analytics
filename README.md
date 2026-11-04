@@ -33,12 +33,6 @@ The goal is simple: turn raw financial facts into organized information that hel
 | 🗄️ Database | MySQL |
 | 📈 Analytics & reporting | SQL, Power BI |
 
-## 🖥️ Project Home
-
-<div align="center">
-  <img src="images/dashboard-home.png" alt="Apple Financial BI - Home Page" width="90%">
-</div>
-
 ---
 
 ## 🧭 Table of Contents
